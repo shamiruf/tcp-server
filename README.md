@@ -28,19 +28,33 @@ xsmitka@fray1:/home/zam/xsmitka>telnet baryk-ng.fit.cvut.cz 3999
 Trying 147.32.232.173…
 Connected to baryk.fit.cvut.cz.
 Escape character is '^]'.
+
 200 LOGIN
+
 Robot Emil cislo 33
+
 201 PASSWORD
+
 1645
+
 202 OK
+
 INFO 2014-02-19 03:34 nefunkční čidlo tlaku
+
 202 OK
+
 INFO 2014-02-19 03:35 blíží se jiný robot
+
 202 OK
+
 INFO 2014-02-19 03:38 jiný robot atakován, získáno čidlo tlaku
+
 202 OK
+
 FOTO 3068 …..3068 bytu dat + 4 byty kontrolního součtu…..
+
 202 OK
+
 ^]q
 
 telnet> q
@@ -55,14 +69,24 @@ xsmitka@fray1:/home/zam/xsmitka>telnet baryk.fit.cvut.cz 3999
 Trying 147.32.232.173…
 Connected to baryk.fit.cvut.cz.
 Escape character is '^]'.
+
 200 LOGIN
+
 Robot Karel
+
 201 PASSWORD
+
 1045
+
 202 OK
+
 INFO 2014-02-19 03:34 nefunkční čidlo tlaku
+
 202 OK
+
 INFOblablabla
+
 501 SYNTAX ERROR
+
 Connection closed by foreign host.
 xsmitka@fray1:/home/zam/xsmitka>
